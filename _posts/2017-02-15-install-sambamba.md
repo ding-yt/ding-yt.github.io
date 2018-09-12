@@ -4,7 +4,7 @@ title:  "Install Sambamba"
 date:   2017-02-15
 desc: "Install Sambamba"
 keywords: "linux,bioinfo,software"
-categories: [Bioinfo]
+categories: [Bioinfo,Software]
 tags: [linux,bioinfo,software]
 icon: icon-html
 ---
