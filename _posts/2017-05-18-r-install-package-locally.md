@@ -5,7 +5,7 @@ date: 2017-05-18
 desc:  R install package locally
 keywords: "blog"
 categories: [Bioinfo,Software]
-tags: "bioinfo,software"
+tags: [bioinfo,software]
 icon: icon-html
 ---
 
