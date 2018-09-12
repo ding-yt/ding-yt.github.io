@@ -5,7 +5,7 @@ date: 2018-07-27
 desc:  GitHub add repo remotely from server
 keywords: "blog"
 categories: [Linux]
-tags: "linux,github"
+tags: [linux,github]
 icon: icon-html
 ---
 
