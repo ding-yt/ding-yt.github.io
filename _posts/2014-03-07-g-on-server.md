@@ -5,7 +5,7 @@ date: 2014-03-07
 desc:  g++ on server
 keywords: "blog"
 categories: [Linux]
-tags: "linux,c++"
+tags: [linux,c++]
 icon: icon-html
 ---
 
