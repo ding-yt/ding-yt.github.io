@@ -5,7 +5,7 @@ date: 2014-03-01
 desc:  Google test with Xcode
 keywords: "blog"
 categories: [Mac]
-tags: "mac, c++"
+tags: [mac,c++]
 icon: icon-html
 ---
 
