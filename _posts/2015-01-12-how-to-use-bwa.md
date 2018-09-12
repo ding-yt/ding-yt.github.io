@@ -5,7 +5,7 @@ date: 2015-01-12
 desc:  How to use BWA and SAMTools
 keywords: "blog"
 categories: [Bioinfo,Software]
-tags: "bioinfo,software"
+tags: [bioinfo,software]
 icon: icon-html
 ---
 
