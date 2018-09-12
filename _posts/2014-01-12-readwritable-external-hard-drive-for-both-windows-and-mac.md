@@ -4,8 +4,8 @@ title:  read/writable external hard drive for both windows and mac
 date: 2014-01-12
 desc:  read/writable external hard drive for both windows and mac
 keywords: "blog"
-categories: 
-tags: 
+categories: [Mac]
+tags: "mac"
 icon: icon-html
 ---
 

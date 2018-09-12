@@ -4,8 +4,8 @@ title:  How to use BWA and SAMTools
 date: 2015-01-12
 desc:  How to use BWA and SAMTools
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo,Software]
+tags: "bioinfo,software"
 icon: icon-html
 ---
 

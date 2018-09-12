@@ -4,8 +4,8 @@ title:  figtree command line
 date: 2014-06-08
 desc:  figtree command line
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo,Linux,Software]
+tags: "bioinfo,linux,software"
 icon: icon-html
 ---
 

@@ -4,8 +4,8 @@ title:  g++ on server
 date: 2014-03-07
 desc:  g++ on server
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux,c++"
 icon: icon-html
 ---
 

@@ -4,8 +4,8 @@ title:  SLURM queueing
 date: 2014-11-05
 desc:  SLURM queueing
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 

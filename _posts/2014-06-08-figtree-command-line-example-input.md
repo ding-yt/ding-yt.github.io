@@ -4,8 +4,8 @@ title:  figtree command line example input
 date: 2014-06-08
 desc:  figtree command line example input
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo,Software]
+tags: "bioinfo,software"
 icon: icon-html
 ---
 
