@@ -4,8 +4,8 @@ title:  scancel for a job range with bash
 date: 2017-03-19
 desc:  scancel for a job range with bash
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
