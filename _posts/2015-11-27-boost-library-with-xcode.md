@@ -4,8 +4,8 @@ title:  Boost library with XCode
 date: 2015-11-27
 desc:  Boost library with XCode
 keywords: "blog"
-categories: 
-tags: 
+categories: [Mac]
+tags: "mac,c++"
 icon: icon-html
 ---
 
