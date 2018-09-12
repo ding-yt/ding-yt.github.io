@@ -4,8 +4,8 @@ title:  compress multiple files into one .gz in Linux
 date: 2015-09-27
 desc:  compress multiple files into one .gz in Linux
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
