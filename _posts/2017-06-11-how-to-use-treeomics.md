@@ -4,8 +4,8 @@ title:  How to use treeomics
 date: 2017-06-11
 desc:  How to use treeomics
 keywords: "blog"
-categories: [Bioinfo,Software'
-tags: "bioinfo,software"
+categories: [Bioinfo,Software]
+tags: [bioinfo,software]
 icon: icon-html
 ---
 
