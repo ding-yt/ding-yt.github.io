@@ -4,8 +4,8 @@ title:  Cancer genome analysis
 date: 2015-11-22
 desc:  Cancer genome analysis
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo]
+tags: "bioinfo"
 icon: icon-html
 ---
 
