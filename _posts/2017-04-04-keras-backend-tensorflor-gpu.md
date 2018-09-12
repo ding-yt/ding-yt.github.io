@@ -5,7 +5,7 @@ date: 2017-04-04
 desc:  keras backend tensorflor GPU
 keywords: "blog"
 categories: [Software,Machinelearning]
-tags: "software,machinelearning"
+tags: [software,machinelearning]
 icon: icon-html
 ---
 
