@@ -4,8 +4,8 @@ title:  scheduled email with automator on Mac
 date: 2017-10-09
 desc:  scheduled email with automator on Mac
 keywords: "blog"
-categories: 
-tags: 
+categories: [Mac]
+tags: "mac"
 icon: icon-html
 ---
 
