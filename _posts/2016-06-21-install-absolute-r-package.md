@@ -4,8 +4,8 @@ title:  install ABSOLUTE (R package)
 date: 2016-06-21
 desc:  install ABSOLUTE (R package)
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo,Software]
+tags: "bioinfo,software"
 icon: icon-html
 ---
 
