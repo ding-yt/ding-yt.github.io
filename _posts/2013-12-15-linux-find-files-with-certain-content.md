@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  linux: find\/replace files with certain content
+title:  linux: find/replace files with certain content
 date: 2013-12-15
-desc:  linux: find\/replace files with certain content
+desc:  linux: find/replace files with certain content
 keywords: "blog"
 categories: [Linux]
 tags: [linux]
