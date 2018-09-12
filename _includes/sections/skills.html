@@ -12,6 +12,19 @@
         <div class="col-lg-1"></div>
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills.id }}");
+        var notations = {
+            0: "",
+            10: "",
+            20: "no",
+            30: "",
+            40: "basic",
+            50: "",
+            60: "proficient",
+            70: "",
+            80: "great",
+            90: "",
+            100: "outstanding",
+        };
         var data = {
             labels: "{{ site.data.index.skills.aspects }}".split(","),
             datasets: [{
@@ -30,8 +43,15 @@
             data: data,
             options: {
                 scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100},
+                    responsive: true,                   
+                    ticks: {
+                        min: 0, 
+                        max: 100,
+                        beginAtZero: true,
+                        userCallback: function(value, index, values) {
+                            return notations[value];
+                        }
+                    },
                     lineArc: false,
                     pointLabels: {fontSize: 14},
                 },
