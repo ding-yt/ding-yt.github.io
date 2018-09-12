@@ -4,8 +4,8 @@ title:  SAM format and vcf format
 date: 2015-01-15
 desc:  SAM format and vcf format
 keywords: "blog"
-categories: 
-tags: 
+categories: [Bioinfo]
+tags: "bioinfo"
 icon: icon-html
 ---
 
