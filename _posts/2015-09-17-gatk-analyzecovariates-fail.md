@@ -5,7 +5,7 @@ date: 2015-09-17
 desc:  GATK AnalyzeCovariates fail
 keywords: "blog"
 categories: [Bioinfo,Software]
-tags: "bioinfo,software"
+tags: [bioinfo,software]
 icon: icon-html
 ---
 
