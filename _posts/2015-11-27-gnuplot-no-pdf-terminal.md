@@ -4,8 +4,8 @@ title:  Gnuplot no pdf terminal
 date: 2015-11-27
 desc:  Gnuplot no pdf terminal
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
