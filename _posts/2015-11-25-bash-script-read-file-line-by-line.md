@@ -4,8 +4,8 @@ title:  bash script read file line by line
 date: 2015-11-25
 desc:  bash script read file line by line
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
