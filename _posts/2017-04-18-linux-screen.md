@@ -4,8 +4,8 @@ title:  linux screen
 date: 2017-04-18
 desc:  linux screen
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
