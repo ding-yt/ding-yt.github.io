@@ -4,8 +4,8 @@ title:  linux: find/replace files with certain content
 date: 2013-12-15
 desc:  linux: find/replace files with certain content
 keywords: "blog"
-categories: 
-tags: 
+categories: [Linux]
+tags: "linux"
 icon: icon-html
 ---
 
