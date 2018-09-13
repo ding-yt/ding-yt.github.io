@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: YTding # Be used at blog posts' author.
   first_name: Yuantong  # Be used at index page about me section.
   last_name: Ding  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/myAvatar.png  # upload your avatar at directory and edit it.
   github_username: ding-yt  # Leave blank if you don't have now
   linkedin_id: yuantong-ding-398ab138 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
