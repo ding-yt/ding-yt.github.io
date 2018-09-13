@@ -26,7 +26,7 @@
   job:
     detail: Research intern
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-map-signs
   
 - name:
     detail: Graduation
@@ -40,4 +40,4 @@
   job:
     detail: Graduate Student
     i18n: college_job
-  icon: fa-book
+  icon: fa-mortar-board
