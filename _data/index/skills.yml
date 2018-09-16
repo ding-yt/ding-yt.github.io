@@ -1,6 +1,8 @@
 # skills section data
+#aspects: Genomics, Evolution, Cancer biology, Statistics, Machine Learing, Programing
+
 
 label: Ability
 id : cs
-aspects: Genomics, Evolution, Cancer biology, Statistics, Machine Learing, Programing
-percentage: 90, 85, 70, 80, 60, 60
+aspects: Hiking, Mountain climbing, Diving, Baking, Science fiction, Drawing
+percentage: 90, 85, 70, 80, 90, 60
