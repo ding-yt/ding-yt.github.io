@@ -4,5 +4,5 @@
 
 label: Ability
 id : cs
-aspects: Hiking, Mountain climbing, Diving, Baking, Science fiction, Drawing
-percentage: 90, 85, 70, 80, 90, 60
+aspects: Hiking, Mountain climbing, Drawing, Diving, Science fiction, Baking
+percentage: 95, 85, 60, 80, 95, 80
