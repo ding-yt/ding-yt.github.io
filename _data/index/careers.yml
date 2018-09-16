@@ -15,17 +15,31 @@
   icon: fa-laptop
 
 - name:
-    detail: WeGene, Shenzhen, China
+    detail: IdeaBank, Guangdong, China
     i18n: company_b
   desc:
-    detail: I took an internship in WeGene, one of the top personal genomic testing and biotechnology companies in china, and I worked on human ancestry classification algorithm.
+    detail: IdeaBank is a statup company providing personal wearable devises and health management. I worked on a movement data classification with Logistic Regression, SVM, decision tree, convolutional neuron network and recurrent neuron network there.
     i18n: company_b_desc
   date:
-    detail: Jun. 2016 - Jul. 2016
+    detail: May. 2018 - Jul. 2018
     i18n: company_b_date
   job:
     detail: Research intern
     i18n: company_b_job
+  icon: fa-map-signs
+  
+- name:
+    detail: WeGene, Shenzhen, China
+    i18n: company_c
+  desc:
+    detail: I took an internship in WeGene, one of the top personal genomic testing and biotechnology companies in china, and I worked on human ancestry classification algorithm.
+    i18n: company_c_desc
+  date:
+    detail: Jun. 2016 - Jul. 2016
+    i18n: company_c_date
+  job:
+    detail: Research intern
+    i18n: company_c_job
   icon: fa-map-signs
   
 - name:
