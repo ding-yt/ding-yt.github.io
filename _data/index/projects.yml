@@ -6,7 +6,7 @@
   gh_user: ding-yt
   repo: TumorSimulation_BDsingleCell
   img: /static/assets/img/landing/cancerEvo.jpg
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: 2D tumor growth simulation(single cell level) under different evolutionary models (C++).
 
 - name: Python
   i18n: cpython
