@@ -27,7 +27,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: Hobby
+  name: Hobbies
   tpl: skills.html
   css: team
 
