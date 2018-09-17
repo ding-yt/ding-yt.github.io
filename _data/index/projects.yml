@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/cancerEvo.jpg
   desc: 2D tumor growth simulation(single cell level) under different evolutionary models (C++).
 
-- name: Pj2
-  i18n: cpython
-  gh_user: python
+- name: Seamlessly blending two images together 
+  i18n: poisson
+  gh_user: ding-yt
   url: 
-  img: 
-  desc: Some other project
+  img: /static/assets/img/landing/blend.jpg
+  desc: CUDA kernels for Poisson image editing 
 
 - name: Pj3
   i18n: google
