@@ -17,7 +17,7 @@
   i18n: poisson
   gh_user: ding-yt
   repo: blendImage_PoissonImageEditing
-  img: /static/assets/img/landing/blend.jpg
+  img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
 
 - name: Pj3
