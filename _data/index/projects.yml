@@ -1,6 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+# - name: Pj3
+#   i18n: google
+#   url: 
+#   img: 
+#   desc: Some other project
 - name: Agent-based tumor simulation
   i18n: jalpc
   gh_user: ding-yt
@@ -11,7 +16,7 @@
 - name: Seamlessly blending two images together 
   i18n: poisson
   gh_user: ding-yt
-  url: 
+  repo: blendImage_PoissonImageEditing
   img: /static/assets/img/landing/blend.jpg
   desc: CUDA kernels for Poisson image editing 
 
