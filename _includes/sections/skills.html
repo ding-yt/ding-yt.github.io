@@ -47,6 +47,9 @@
                     ticks: {min: 0, max: 100},
                     lineArc: false,
                     pointLabels: {fontSize: 20},
+                    userCallback: function(value, index, values) {
+                             return notations[value];
+                    }，
                 },
                 legend: {display: false},
             }
