@@ -20,8 +20,8 @@
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
 
-- name: Pj3
-  i18n: google
-  url: 
-  img: 
-  desc: Some other project
+# - name: Pj3
+#   i18n: google
+#   url: 
+#   img: 
+#   desc: Some other project
