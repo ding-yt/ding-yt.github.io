@@ -19,6 +19,13 @@
   repo: blendImage_PoissonImageEditing
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
+  
+- name: Toy models machine learning 
+  i18n: poisson
+  gh_user: ding-yt
+  repo:
+  img: /static/assets/img/landing/ml.jpg
+  desc: Some common toy models in machine learning (TensorFlow)
 
 # - name: Pj3
 #   i18n: google
