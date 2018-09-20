@@ -24,7 +24,7 @@
   i18n: poisson
   gh_user: ding-yt
   repo:
-  img: /static/assets/img/landing/ml.jpg
+  img: /static/assets/img/landing/machine-learning-icons.jpg
   desc: Some common toy models in machine learning (TensorFlow)
 
 # - name: Pj3
