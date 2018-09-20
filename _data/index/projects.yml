@@ -20,7 +20,7 @@
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
   
-- name: Toy models machine learning 
+- name: Toy models of machine learning 
   i18n: poisson
   gh_user: ding-yt
   repo:
