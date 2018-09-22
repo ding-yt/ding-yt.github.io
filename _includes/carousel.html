@@ -4,7 +4,6 @@
         <li data-target="#inSlider" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
-
         <div class="item active">
             <div class="container">
                 <div class="carousel-caption">
@@ -31,7 +30,7 @@
                 </div>
             </div>
             <!-- Set background for slide in css -->
-            <div class="header-back" style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
+            <div class="header-back" height=300 style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
         </div>
         {% endfor %}
 
