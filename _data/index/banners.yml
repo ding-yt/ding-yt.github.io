@@ -2,7 +2,7 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/background_mountain_long.jpg
+- src: landing/background_mountain_long2.jpg
   title: first banner image
 
 - src: landing/kili.jpg
