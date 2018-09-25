@@ -11,7 +11,7 @@
   gh_user: ding-yt
   repo: TumorSimulation_BDsingleCell
   img: /static/assets/img/landing/cancerEvo.jpg
-  desc: 2D tumor growth simulation(single cell level) under different evolutionary models (C++).
+  desc: 2D tumor single cell simulation model under different evolutionary models (C++).
 
 - name: Seamlessly blending two images together 
   i18n: poisson
@@ -32,7 +32,7 @@
   gh_user: ding-yt
   repo: DNAclustering_Dirichlet
   img: /static/assets/img/landing/DNAclustering.jpg
-  desc: A Dirichlet process mixture model with Gibbs sampler for DNA clustering (C++)
+  desc: Dirichlet process mixture model with Gibbs sampler for DNA clustering (C++)
   
 # - name: Pj3
 #   i18n: google
