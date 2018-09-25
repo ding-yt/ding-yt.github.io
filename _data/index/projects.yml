@@ -20,8 +20,15 @@
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
   
+- name: DNA haplotype clustering with Dirichlet process mixture model
+  i18n: dna
+  gh_user: ding-yt
+  repo: DNAclustering_Dirichlet
+  img: /static/assets/img/landing/DNAclustering.jpg
+  desc: A Dirichlet process mixture model with Gibbs sampler for DNA clustering (C++)
+  
 - name: Toy models of machine learning 
-  i18n: poisson
+  i18n: ml
   gh_user: ding-yt
   repo:
   img: /static/assets/img/landing/machine-learning-icons.jpg
