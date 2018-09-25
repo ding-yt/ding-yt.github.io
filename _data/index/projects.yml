@@ -6,12 +6,12 @@
 #   url: 
 #   img: 
 #   desc: Some other project
-- name: Agent-based tumor simulation
+- name: Agent-based tumor simulation (C++)
   i18n: jalpc
   gh_user: ding-yt
   repo: TumorSimulation_BDsingleCell
   img: /static/assets/img/landing/cancerEvo.jpg
-  desc: 2D tumor single cell simulation model under different evolutionary models (C++).
+  desc: 2D tumor single cell simulation under different evolutionary models.
 
 - name: Seamlessly blending two images together 
   i18n: poisson
@@ -27,12 +27,12 @@
   img: /static/assets/img/landing/machine-learning-icons.jpg
   desc: Some common toy models in machine learning (TensorFlow)
   
-- name: DNA clustering with DP
+- name: DNA clustering with DP (C++)
   i18n: dna
   gh_user: ding-yt
   repo: DNAclustering_Dirichlet
   img: /static/assets/img/landing/DNAclustering.jpg
-  desc: Dirichlet process mixture model with Gibbs sampler for DNA clustering (C++)
+  desc: Dirichlet process mixture model with Gibbs sampler for DNA clustering 
   
 # - name: Pj3
 #   i18n: google
