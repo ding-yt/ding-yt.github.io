@@ -20,19 +20,19 @@
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
   
-- name: Toy models of machine learning 
-  i18n: ml
-  gh_user: ding-yt
-  repo: MachineLearningToyModel
-  img: /static/assets/img/landing/machine-learning-icons.jpg
-  desc: Some common toy models in machine learning (TensorFlow)
-  
 - name: DNA clustering with DP (C++)
   i18n: dna
   gh_user: ding-yt
   repo: DNAclustering_Dirichlet
   img: /static/assets/img/landing/DNAclustering.jpg
   desc: Dirichlet process mixture model with Gibbs sampler for DNA clustering 
+
+- name: Toy models of machine learning 
+  i18n: ml
+  gh_user: ding-yt
+  repo: MachineLearningToyModel
+  img: /static/assets/img/landing/machine-learning-icons.jpg
+  desc: Some common toy models in machine learning (TensorFlow)
   
 # - name: Pj3
 #   i18n: google
