@@ -20,7 +20,7 @@
   img: /static/assets/img/landing/blend2.jpg
   desc: CUDA kernels for Poisson image editing 
   
-- name: DNA haplotype clustering with Dirichlet process mixture model
+- name: DNA clustering with DP
   i18n: dna
   gh_user: ding-yt
   repo: DNAclustering_Dirichlet
