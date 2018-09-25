@@ -30,7 +30,7 @@
 - name: Toy models of machine learning 
   i18n: ml
   gh_user: ding-yt
-  repo:
+  repo: MachineLearningToyModel
   img: /static/assets/img/landing/machine-learning-icons.jpg
   desc: Some common toy models in machine learning (TensorFlow)
 
