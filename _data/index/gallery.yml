@@ -1,0 +1,7 @@
+#layout: post
+#title:  "Let's build a Carousel!"
+#date: 2013-07-03 21:40:10
+#categories: jekyll demo blog carousel
+- carousel:
+  - image: /img/carousel/slide1.jpg
+  - image: /img/carousel/slide2.jpg
