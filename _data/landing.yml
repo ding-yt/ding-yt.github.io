@@ -18,12 +18,6 @@
   tpl: projects.html
   css: project
   
-- id: gallery
-  i18n: nav.gallery
-  name: Gallery
-  tpl: gallery.html
-  css: 
-
 - id: blog
   i18n: nav.blog
   name: Blog
