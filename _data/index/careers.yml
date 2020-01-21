@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: BGI Research, Shenzhen, China
+    i18n: company_a
+  desc:
+    detail: I'm currently a scientist and Corporate Strategist at BGI Research and BGI Group.
+    i18n: company_a_desc
+  date:
+    detail: 2019 
+    i18n: company_a_date
+  job:
+    detail: Postdoc
+    i18n: company_a_job
+  icon: fa-laptop
+  
+- name:
     detail: Duke University School of Medicine, NC, US
     i18n: company_a
   desc:
